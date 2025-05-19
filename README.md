@@ -1,6 +1,7 @@
 # Website-Chatbot-RAG
 Website Chatbot-RAG with Dynamic URL
 
+Use this command to run in a virtual env: streamlit run Chatbot-memory_based-DynUrl-St.py
 
 **🔍 Website-Based Chatbot – Core Functionality:**
 
