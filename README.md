@@ -15,5 +15,8 @@ Website Chatbot-RAG with Dynamic URL
 9. Constructs prompts with contextual snippets and sends them to the LLM.
 10. Returns accurate, context-based answers about the website content in a chat-like format.
 
+Example URL Tried: https://lilianweng.github.io/posts/2023-06-23-agent/
+Below is the Screen Shot.
+
 ![image](https://github.com/user-attachments/assets/f6369f3d-ec23-4588-8038-0ce4d5f1032c)
 
